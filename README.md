@@ -6,7 +6,7 @@
 Приведите скриншот команды 'curl -X GET 'localhost:9200/_cluster/health?pretty', сделанной на сервере с установленным Elasticsearch. Где будет виден нестанд>
 
 Скриншот до
-[Текст ссылки](https://www.example.com)
+[Текст ссылки](https://github.com/NikolayAntipov/ELK/blob/main/img/1_1JPG.JPG))
 
 Скриншот после изменения настроек
 [Текст ссылки](https://www.example.com)
