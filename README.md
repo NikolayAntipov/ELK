@@ -5,10 +5,10 @@
 
 Приведите скриншот команды 'curl -X GET 'localhost:9200/_cluster/health?pretty', сделанной на сервере с установленным Elasticsearch. Где будет виден нестанд>
 
-Скриншот до
+### Скриншот до
 ![Текст ссылки](https://github.com/NikolayAntipov/ELK/blob/main/img/1_1JPG.JPG)
 
-Скриншот после изменения настроек
+### Скриншот после изменения настроек
 ![Текст ссылки](https://github.com/NikolayAntipov/ELK/blob/main/img/1_2.JPG)
 
 
@@ -17,7 +17,7 @@
 
 Приведите скриншот интерфейса Kibana на странице http://<ip вашего сервера>:5601/app/dev_tools#/console, где будет выполнен запрос GET /_cluster/health?pret>
 
-Скриншот
+### Скриншот
 ![Текст ссылки](https://github.com/NikolayAntipov/ELK/blob/main/img/2.JPG)
 
 ## Задание 3. Logstash
@@ -25,6 +25,7 @@
 
 Приведите скриншот интерфейса Kibana, на котором видны логи Nginx.
 
+### Скриншот
 ![Текст ссылки](https://github.com/NikolayAntipov/ELK/blob/main/img/3.JPG)
 
 ## Задание 4. Filebeat.
@@ -32,4 +33,5 @@
 
 Приведите скриншот интерфейса Kibana, на котором видны логи Nginx, которые были отправлены через Filebeat.
 
+### Скриншот
 ![Текст ссылки](https://github.com/NikolayAntipov/ELK/blob/main/img/4.JPG)
